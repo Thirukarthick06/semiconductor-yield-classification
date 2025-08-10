@@ -1,4 +1,5 @@
-Conclusion
+Conclusion:
+
 The semiconductor pass/fail classification project successfully built a predictive pipeline to determine yield quality using sensor signal data.
 Key achievements:
 
@@ -11,7 +12,8 @@ The final selected model provided the best accuracy on unseen test data, showing
 This approach can help process engineers identify critical signals impacting yield, improving throughput, reducing time to decision, and lowering per-unit costs.
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Improvisation & Future Work
+Improvisation & Future Work:
+
 Feature Importance Analysis – Extend the project to rank sensor signals by importance and interpret the top contributors to yield.
 
 Model Explainability – Use SHAP or LIME to provide interpretable insights to engineers.
